@@ -1,1 +1,16 @@
-/* styles go here */
+.field-form {
+  margin-bottom: 10px;
+  display: block;
+}
+
+.fieldset {
+  margin-bottom: 20px;
+}
+
+.field-form-cat {
+  display: inline;
+}
+
+.field-how {
+  margin-top: 10px;
+}
