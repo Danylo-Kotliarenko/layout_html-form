@@ -11,10 +11,14 @@
   display: inline;
 }
 
-.field-how {
+/* .field-how {
   margin-top: 10px;
-}
+} */
 
 .last-field {
   margin-bottom: auto;
+}
+
+.form-color {
+  margin-top: 10px;
 }
